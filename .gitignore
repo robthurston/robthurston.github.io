@@ -5,3 +5,8 @@
 *.iml
 
 glist/node_modules/
+glist/node_modules/*
+
+*.glist/node_modules/
+
+.glist/node_modules/
